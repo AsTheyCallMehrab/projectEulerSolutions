@@ -16,4 +16,5 @@ print (" sum of mulpiples of 3 or 5 under 1000 is : ", sum)
 
 '''developed by Mehrab_mahmoudifar
     difficulty level : 5%
-    Thank You ♥'''
+    Thank You ♥
+    '''
